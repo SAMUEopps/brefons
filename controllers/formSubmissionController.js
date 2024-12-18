@@ -1,4 +1,4 @@
-const Form = require('../models/form'); // Form design model
+const Form = require('../models/formData'); // Form design model
 const FormSubmission = require('../models/formSubmission'); // Form submission model
 
 const saveFormSubmission = async (req, res) => {
